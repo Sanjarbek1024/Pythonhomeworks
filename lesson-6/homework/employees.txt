@@ -1,0 +1,2 @@
+1000,Shuxratbek,University,1000$
+1001,Xurshid   ,school  ,300 $
