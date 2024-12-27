@@ -219,13 +219,3 @@ if __name__ == "__main__":
     app = ToDoApplication(handler, file_name)
     app.menu()
 
-
-
-
-
-
-    # I have used ChatGPT and other sources to write code. It's a bit hard for me to solve it myself sometimes. 
-    # While solving problems on my own can sometimes be challenging, seeking assistance has been incredibly helpful.
-    # I've used to learn csv and json.
-
-    # I have a question. It is ok to use AI tools when i was writing codes, or not. 
